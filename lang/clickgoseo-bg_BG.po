@@ -1,0 +1,205 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Click & Go SEO\n"
+"POT-Creation-Date: 2013-06-05 21:22:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-09-11 13:51+0200\n"
+"Last-Translator: Hristo Pandjarov <hristo.p@siteground.com>\n"
+"Language-Team: Hristo Pandjarov <hristo.p@siteground.com>\n"
+"X-Generator: Poedit 1.5.3\n"
+"Language: en_US\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "WordPress Click & Go SEO"
+msgstr "WordPress Click & Go SEO"
+
+msgid "WordPress Click & Go SEO - All the SEO You Need for WordPress"
+msgstr ""
+"WordPress Click & Go SEO - всичко нужно за добрата SEO оптимизация на "
+"WordPress"
+
+msgid "WordPress Click & Go SEO Settings Page"
+msgstr "WordPress Click & Go SEO Настройки"
+
+msgid "Home Page Settings"
+msgstr "Настройки на началната страница"
+
+msgid "Home Page Meta Title"
+msgstr "Мета заглавие на началната страница"
+
+msgid "Home Page Meta Description"
+msgstr "Мета описание на началната страница"
+
+msgid "Home Page Rel Canonical"
+msgstr "Каноничен адрес за началната страница"
+
+msgid "Single Posts/Pages Meta Settings"
+msgstr "Мета настройки на отделните публикации/страници"
+
+msgid "Meta Title Prefix"
+msgstr "Добави преди заглавието"
+
+msgid "Meta Title Suffix"
+msgstr "Добави след заглавието"
+
+msgid "Google Related Settings"
+msgstr "Настройки за Google"
+
+msgid ""
+"Enable the <strong>Google Authorship ID</strong> field in the <strong>Users</"
+"strong> page and generate the necessary meta tags."
+msgstr ""
+"Добавя <strong>Google Authorship ID</strong> поле към <strong>Users</strong> "
+"страницата и генерира нужния мета таг."
+
+msgid "Google Publisher ID"
+msgstr "Google Publisher ID"
+
+msgid "Google Analytics ID"
+msgstr "Google Analytics ID"
+
+msgid "Additional Settings"
+msgstr "Допълнителни настройки"
+
+msgid ""
+"Block <strong>Search</strong> & <strong>404 Not Found</strong> Pages From "
+"Indexing"
+msgstr ""
+"Блокирай резултатите от търсене и страниците за 404 грешки от индексиране"
+
+msgid "Daily Archives: "
+msgstr "Дневен архив: "
+
+msgid "Monthly Archives: "
+msgstr "Месечен архив: "
+
+msgid "Yearly Archives"
+msgstr "Годишен архив: "
+
+msgid "Category Archives: "
+msgstr "Категория: "
+
+msgid "Tag Archives: "
+msgstr "Архив на етикет: "
+
+msgid "Search results for: "
+msgstr "Резултати от търсенето за: "
+
+msgid "404 Page Not Found"
+msgstr "Грешка 404 - Страницата не е намерена!"
+
+msgid "These settings will handle the behaviour of your home page."
+msgstr "Тези настройки управляват мета информацията на началната страница."
+
+msgid "These settings will handle the Google related information."
+msgstr "Тези настройки управляват свързаните с Google настройки."
+
+msgid ""
+"Uppon installation Click & Go WordPress SEO will strip the unnecessary "
+"content added to your meta titles. If you want to use a prefix or suffix to "
+"your titles, please use the fields below to do so."
+msgstr ""
+"След активиране, Click & Go WordPress SEO ще изчисти ненужното съдържание "
+"преди и след заглавията на постовете и страниците Ви. Ако искате да добавите "
+"текст преди или след мета заглавията си, използвайте тези полета."
+
+msgid "<li><p>Author ID: "
+msgstr "<li><p>Author ID: "
+
+msgid "for "
+msgstr "за "
+
+msgid ""
+"Few additional settings to further improve different parts of your WordPress "
+"site."
+msgstr ""
+"Допълнителни настройки целящи да подобрят различни части от функционалността "
+"на WordPress."
+
+msgid ""
+"<span class=\"description\"> Protects you from SEO spam attacks. Someone "
+"might link to a page like \"/?s=viagra\" on your site causing suspicious "
+"content to be indexed by Google.</span>"
+msgstr ""
+"<span class=\"description\"> Предпазва Ви от определени SEO спам атаки. Ако "
+"примерно някой постави връзка към \"/?s=viagra\" на вашия сайт, това би "
+"довело до индексирането на лошо съдържание от Вашия сайт.</span>"
+
+msgid ""
+"Add your Google Analytics ID to authorize your site with Google Analytics.</"
+"p>"
+msgstr ""
+"Въведете Вашето Google Analytics ID за да се удостоверите в Google Analytics."
+"</p>"
+
+msgid "Add your Google Webmasters Tools ID to authorize your site with GWT."
+msgstr ""
+"Въведете Вашето Google Webmasters Tools ID за да се удостоверите в GWT."
+
+msgid ""
+"The perfect length of your title is between 45 and 65 characters.Your meta "
+"title is "
+msgstr ""
+"Оптималната дължина на Вашето мета заглавие е между 45 и 65 символа. Вашето "
+"заглавие е дълго "
+
+msgid " characters long."
+msgstr " символа."
+
+msgid ""
+"The perfect length of your meta description is between 100 and 155 "
+"characters.Your meta description is "
+msgstr ""
+"Оптималната дължина на Вашето мета описание е между 100 и 155 символа. "
+"Вашето описание е дълго "
+
+msgid ""
+"The \"Publisher\" meta tag shows Google that a specified Google+ profile is "
+"responsible for the content on your website. Even if you have multiple "
+"authors, there can be only one Publisher per domain name."
+msgstr ""
+"\"Publisher\" мета етикета показва на Google, че определен Google+ профил "
+"отговаря за публикуваното съдържаание на Вашия сайт."
+
+msgid ""
+"The \"Author\" meta tag specifies the Author for the particular post/page. "
+"Check out the "
+msgstr ""
+"\"Author\" мета етиката показва кой е авторът на конкретната публикация/"
+"страница. Прегледайте "
+
+msgid "Official Google Documentation"
+msgstr "официалната документация на Google"
+
+msgid ""
+" on authorship for more information on that matter. If you configure "
+"everything correct, your search result snippets should look like this:"
+msgstr ""
+" за повече информация на тема авторство. Ако конфигурирате всичко правилно, "
+"резутатите Ви в Google трябва да изглеждат подобно:"
+
+msgid ""
+"Automatically generate meta description from your <strong>excerpts</strong>"
+msgstr "Автоматично генерирай мета описание от <strong>excerpt</strong>-а."
+
+msgid ""
+"If checked, WordPress Click & Go SEO will generate a meta description tag "
+"for your posts, pages, etc. from the data in your excerpt.</span>"
+msgstr ""
+"Ако тази опция е избрана WordPress Click & Go SEO ще генерира мета описание "
+"на базата на Вашия excerpt.</span>"
+
+msgid ""
+"The \"canonical\" meta tag helps you avoid duplicated content and tells "
+"Google the actual URL of your page that has to be indexed. Find out more on "
+"that matter in the <a target=\"_blank\" href=\"https://support.google.com/"
+"webmasters/answer/139394?hl=en\">Official Google Documentation</a>."
+msgstr ""
+"Каноничния мета етикет Ви помага да избегнете дублиране на съдържание. За "
+"повече информация по темата, погледнете <a target=\"_blank\" href=\"https://"
+"support.google.com/webmasters/answer/139394?hl=en\">официалната документация "
+"на Google</a>."
